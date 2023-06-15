@@ -1,6 +1,6 @@
 Package: HelloWorld
 Title: Tests RSPM Remote Publishing
-Version: 0.0.0.4
+Version: 0.0.0.5
 Authors@R: 
     person("Roger", "Andre", , "roger.andre@posit.co", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
